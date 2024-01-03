@@ -58,10 +58,13 @@ To stop the script, press `Ctrl + C` in the terminal.
 
 Here are some example tasks you can input:
 
-- `go to hn`
-- `click on the abc article`
-- `enter abc@test.com into the email box. John and Doe in the first and last name boxes respectively`
-- `generate a spicy comment on what xyz said and put it in the comment box`
+- `go to iFixit`
+- `Search for Iphone 11 Pro Max Battery`
+- `Click on the first iPhone 11 Pro Max Battery and wait for Page to Load`
+- `Click the second Add to Cart Button, then Checkout`
+- `Fill out the Contact/Shipping forms with fake but believeable data`
+- `Select Standard Shipping then Continue to Payment`
+- `Wait for "Pay Now" button to be visible`
 
 With `autogpt` enabled, you can also input more complex tasks like:
 
