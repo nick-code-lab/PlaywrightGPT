@@ -4,7 +4,7 @@ This project allows you to control your browser using natural language. It integ
 
 ## Demo
 
-![BrowserGPT in action](./public/browsergpt.gif)
+[![PlaywrightGPT Demo](https://img.youtube.com/vi/DH9cIm1qfug/0.jpg)](https://www.youtube.com/watch?v=DH9cIm1qfug)
 
 ## Installation
 
