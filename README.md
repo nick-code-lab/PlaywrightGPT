@@ -31,7 +31,7 @@ npm run start
 ### Options:
 
 ```
-Usage: npm run start -- [options]
+Usage: node index.js -o code.spec.js
 
 Options:
   -a, --autogpt                          run with autogpt (default: false)
