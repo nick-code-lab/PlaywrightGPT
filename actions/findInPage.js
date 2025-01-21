@@ -20,7 +20,7 @@ ${await parseSite(page)}
 `;
 
   const completion = await retry(async () =>
-    chatApi.call([new SystemMessage(systemPrompt), new HumanMessage(task)])
+    chatApi.call([new HumanMessage(systemPrompt), new HumanMessage(task)])
   );
   console.log('Found on page'.green);
   console.log(completion.text);

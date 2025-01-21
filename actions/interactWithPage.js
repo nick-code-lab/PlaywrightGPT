@@ -65,7 +65,7 @@ Expected Code Format:
 The objective is to create Playwright code that is efficient, precise, and perfectly aligned with the task's requirements, integrating seamlessly into the larger test file. All actions and comments should be relevant and necessary, catering to a senior-level professional's understanding of the testing scenario.`;
 
   return await queryGPT(chatApi, [
-    new SystemMessage(systemPrompt),
+    new HumanMessage(systemPrompt),
     new HumanMessage(task),
   ]);
 }
